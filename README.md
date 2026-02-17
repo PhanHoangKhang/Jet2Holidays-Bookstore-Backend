@@ -2,9 +2,9 @@
 
 This repository contains the **backend service** for the **Jet2Holidays Bookstore** application.
 
-Link Frontend repo: https://github.com/PhanHoangKhang/jet2holidays-bookstore
+It is built with **Java Spring Boot** and exposes a **RESTful API** consumed by a **Next.js frontend**.
 
-It is built with **Java Spring Boot** and exposes a **RESTful API** consumed by a Next.js frontend and mobile clients.
+**Link Frontend repo**: https://github.com/PhanHoangKhang/jet2holidays-bookstore
 
 The backend handles **authentication, authorization, business logic, and database operations** following clean and scalable architecture principles.
 
